@@ -1,0 +1,156 @@
+Open source
+Players of the internet
+The internet
+OSI model
+OSI layers
+TCP/IP protocol
+Domain name system
+URL
+Internet protocol
+Browsers
+Servers
+HTTP
+HTML
+Resources and main HTTP requests
+GET vs POST
+HTTP
+Other request methods
+Method properties (safe/idempotent)
+Safe methods
+Server response codes
+Web application vs service
+Python
+Compiled vs interpreted code
+Pros and cons of interpreted
+3-tier architectures
+Model view controller
+Web frameworks
+Examples of web frameworks for Python/Ruby/JS/Java/C#
+Django
+Django projects vs apps
+Development server
+Models
+Model queries
+Migration
+URL dispatcher
+Views
+Decorator
+Template
+MVC and Django
+Spaghetti web apps
+Bad app design
+Seperation of concerns
+Modularity
+Object relational mapping
+Django vs MySQL type mappings
+ORM and Django
+Stateless
+Dynamic linking
+Cookies
+Sessions
+Session types
+Cookies vs sessions
+Error types
+Static files
+JavaScript
+Document object model
+DOM objects
+JS objects
+JS arrays
+Regular expressions
+General modifiers
+JS input validation
+Ajax
+XMLHttpRequest properties
+Ajax request methods
+JavaScript Object Notation
+CSS3
+CSS style and rules
+Front-end web libraries
+JQuery
+JQuery methods
+JQuery UI
+Angular JS
+Bootstrap
+Uses of Bootstrap
+Hacker's motivation
+Protection advice against hacking
+Injection attacks
+SQL injection
+HTTP header injection
+Log injection
+Cross-site scripting
+More "useful" injections
+Input sanitisation
+HTML escaping
+SQL injection protection
+XSS protection
+PHP input sanitisation
+Session hijacking
+Cross site request forgery
+CSRF protection
+HTTPS
+Password hashing and salting
+Blackbox testing
+Session tests
+Handling error safety
+Communication between web services
+Application and resource states
+Representational State Transfer
+Ideal APIs implementation
+Common API mistakes
+Semantic challenge
+Constraints and semantics
+REST API design
+HTTP for web APIs
+HTTP response codes and REST calls
+Hypermedia menu
+HTTP headers
+Django HTTPRequest Object
+Model based APIs
+Serialising data
+Linking resources in APIs
+Testing web apps
+Unit testing
+Python unittest
+Assert methods in TestCase (unittest)
+Test methods in TestCase (unittest)
+unittest TestSuite
+Testing in Django
+SimpleTestCase
+TransactionTestCase
+django.test.TestCase
+Running tests in Django
+Deployment
+Cron jobs
+Sending emails in Django
+Internationalisation vs localisation
+Test translation
+Local formatting
+Time zone
+Performance trade-off
+Frontend vs backend
+Performance measures
+Performance logging
+Performance profiling
+Request header fields
+Response header fields
+Delay vs user perception
+Progressive rendering
+Browser optimisations
+Document-aware optimisation
+Speculative optimisation
+Download times
+Distance-to-server
+Componenet downloading
+Redirects
+Ajax vs downloading
+Fewer HTTP requests vs downloading
+Caching vs downloading
+Internal/external JS/CSS
+DNS lookups
+Performance rules
+Performance testing
+Modelling user behaviour
+Over-simplification
+Under-simplification

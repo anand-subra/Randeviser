@@ -1,0 +1,129 @@
+body, html{
+  font-family: 'Lato', sans-serif;
+  background-color: #15120f;
+  overflow: hidden;
+}
+
+.main{
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#randomWord{
+  font-weight: 300;
+  color: white;
+  opacity: 1.0 !important;
+}
+
+
+h1, h2{
+  font-weight: 300; /* lighter */
+  padding: 5px;
+}
+
+.ID{
+  color:#33BC96 ;
+}
+
+.DMSN{
+  color:#DF605D ;
+}
+
+.WP{
+  color:#FAB065 ;
+}
+
+.PD{
+  color:#50c7e1 ;
+}
+
+
+.btn-nav{
+  background-color: transparent;
+  border: none;
+}
+
+#modulePrevious{
+  color: white;
+  background-color: transparent;
+  padding: 2px;
+  position: absolute;
+  left: 10px;
+  top:10px;
+}
+
+#moduleNext{
+  color: white;
+  background-color: transparent;
+  padding: 2px;
+  position: absolute;
+  right: 10px;
+  top:10px;
+}
+
+.randombutton{
+  color: white;
+  background-color: transparent;
+  opacity: 0.8;
+  position: absolute;
+  bottom: 50px;
+  margin: auto;
+  width: 100%;
+
+  -webkit-transform-style: preserve-3d;
+
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: .3s ease-in-out;
+  -o-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+
+.randombutton:hover{
+  opacity: 1.0;
+}
+
+.randombutton:active{
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+#modulePrevious:focus, #moduleNext:focus, .randombutton:focus{
+  outline: 0;
+}
+
+
+.glyphicon-refresh{
+  text-align: center;
+  padding: 10px;
+}
+
+#randomWord{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-size: 200%;
+}
+
+.space{
+  position: absolute;
+  margin: auto;
+  top: 40%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.btn-refresh{
+  font-size: 300%;
+}
+
+.name{
+  font-size: 85%;
+}

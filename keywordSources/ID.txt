@@ -1,0 +1,157 @@
+Interaction in context
+Interaction between people
+Conventional HCI
+HCI design cycle
+Hierarchical task analysis
+Cognitive models
+HCI approach
+HCI vs ID
+Basic goals of interaction design
+Design as communication
+Interaction cycle
+Gulfs of interaction
+Norman's design principles
+"Good" conceptual models
+Visibility
+Affordances
+Perceived affordances
+Signifiers
+Constraints
+Explicit vs implicit signifiers
+Natural mapping
+Feedback
+Problems with design principles
+Usability vs experience
+Design cycle
+Uses of ethnography
+Ethnography in design
+Sociology and rule-based models
+Problems with rule-based models
+Ethnography studies
+Grounded theory
+3 stages of grounded theory
+Open coding
+Axial coding
+Selective coding
+Socially emergent behaviour
+Ethnomethodology
+Ethnomethodology process
+Problems with ethnomethodology
+User experience
+Phenomenology
+Phenomenology of space
+Foundational perspectives and user perception
+Qualitative/quantitative phenomenology
+Breakdown
+Stages of breakdown
+Using breakdown
+Types of breakdown
+Flow
+Space and place
+Activity theory
+Activity, actions and operations
+Socio-technical system
+Simple activity system
+Activity context
+Full activity system
+Contradictions
+Implications of AT
+Distributed cognition
+DC model
+Cognitive science
+DC vs individual cognition
+DC method
+DC as a design aid
+Pros and cons of DC
+Approaches to ID
+Creativity model
+The creative product
+Personas
+Pros and cons of personas
+Participatory design
+Participatory design process
+Issues with participatory design
+Perspectives of creative generation
+Inspirationalists
+Structuralists
+Situationalist
+The creative sitation
+Genex
+Phases of genex
+Limitations of genex
+Collaborative creativity
+Genex and design
+Implications of multimodal interaction
+Modality
+Mode
+Medium/media
+Multmedia
+Multimodality
+Multimodal fission
+Multimodal fusion
+Multimodal output via audio
+Speech vs design principles
+Non-speech audio output
+Auditory icons
+Earcons
+Spearcons
+Sonification
+Multimodal output via haptic
+Tactile
+Haptic
+Olfactory interfaces
+Cross-modality
+Cross-modal collaboration
+Implications of interactive art
+Interactive art
+Forms of interactive art
+Dynamic-passive art
+Dynamic-interactive art
+InfoArt
+Issues of interactive art
+User engagement model
+Slow vs calm technology
+Attractors
+Sustainers
+Relators
+Interactivity modes and tasks
+Interactive artifacts
+Collaborative art
+Peripheral interfaces
+Types of peripheral interfaces
+Mobile interaction constraints
+Mobile interface
+Ubiquitous interface
+Wearable interfact
+Issues with ubiquitous/wearables
+Social systems online
+Social interaction design characteristics
+DC and online social systems
+Online social networks
+Social network analysis
+Online vs face-to-face - social implications
+Live performance
+The performance frame
+Spectator types
+Design of live digital art
+Evaluating engagement
+Classification of music activities
+Offline vs online music
+Static vs dynamic music
+Digital audio system
+Waveform
+Sampling
+Quality vs data requirements
+Analogue formats
+Raw digital audio
+Compressed digital audio
+Compression types
+Pitch perception
+Auditory masking
+Temporal masking
+Psychoacoustic compression model
+MIDI
+Issues with MIDI
+Open Sound Control
+Real-time synthesis
+Music interfaces vs design principles

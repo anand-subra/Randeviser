@@ -1,0 +1,130 @@
+Graph
+Set
+Cardinality
+Such that
+Neighbour set
+Directed graph
+Undirected graph
+Node degree
+In-degree
+Out-degree
+Path
+Cycle
+Path distance
+Diameter
+Connected graph
+Disconnected graph
+Connected component
+Giant component
+Clustering coefficient
+Local clustering coefficient
+Network clustering coefficient
+Real vs random network
+Erdos-Renyi
+Measuring real networks
+Short path length in a real network
+High clustering coefficient in a real network
+Characteristics of real networks
+Rewiring a network
+Small world model
+Small world phenomenon
+Six degrees of seperation
+Erdos number
+Bacon number
+Dunbar number
+Triadic closure
+Strong triadic closure property
+Bridge
+Local bridge
+Strong ties in networks
+Weak ties in networks
+Edge weight
+Neighbourhood overlap
+Centrality
+Degree centrality
+Betweeness centrality
+Closeness centrality
+Normalisation and centrality
+Freeman's network centrality
+Issue with degree centrality
+Eigenvector centrality
+Communities
+Community detection
+Divisive communitiy detection
+Agglomerative methods
+Girvan-Newmann algorithm
+Calculating edge betweeness
+Modularity
+Issues with modularity
+Strongly connected component
+Weakly connected component
+Web and power-law
+Power-law vs exponential
+Random vs power-law
+Scale-free networks
+Preferential attachment
+PageRank
+PageRank methodology
+Convergence
+Random walk
+Behaviour and influence
+Model of diffusion
+Pay-off
+Cascade
+Viral marketing
+Communities and cascades
+Cascade capacity threshold
+Tie strength and adoption
+Adopter types
+Early adopters
+Mid-way adopters
+Late adopters
+Burst of activation
+Epidemics vs cascade spreading
+Epidemic
+Branching process
+Basic reproductive number
+Limiting epidemic spread
+Susceptible infected model
+Susceptible infected recovered model
+Limitations of SIR model
+Epidemic threshold
+Susceptible infected susceptible model
+Scale-free networks and epidemics
+Scale-free network immunisation
+Local immunisation
+Susceptible infected recovered susceptible model
+Epidemic models and geography
+Epidemic and tie strength
+Influence theories
+Two-step flow
+Peer-pressure threshold
+Accidential influentials
+Digital media advertising
+Pros of DM advertising
+Types of adverts
+Main players of advertising
+Advertiser
+Provider/publisher
+Broker
+Telco
+Modern DM advertising model
+Pricing models
+Cost per click
+Cost per mile
+Cost per action
+Mobile adverts
+Click fraud
+Challenges of DM advertising
+Types of privacy
+Data privacy
+Communications privacy
+Bodily privacy
+Territorial privacy
+Personal data
+Pros and cons of personal data use
+Privacy and DM
+Cookie tracking
+Targetted ads
+Third-parties and privacy
+Mitigating privacy risks
