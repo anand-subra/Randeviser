@@ -74,6 +74,12 @@ Angular JS
 Bootstrap
 Uses of Bootstrap
 Hacker's motivation
+Spoofing
+Tampering
+Repudiation
+Information disclosure
+Denial of service (DOS)
+Elevation of privilege
 Protection advice against hacking
 Injection attacks
 SQL injection

@@ -2,20 +2,21 @@ Innovation by big companies
 Innovation funnel
 Product development in a large business
 Why products aren’t developed
-Define innovation
-Define invention
+Starting a new business with a new product
+Innovation
+Invention
 6 categories of innovation
 Product innovation
 Process innovation
 Models of innovation
 3 linear models of innovation
-Technology pull
+Technology push
 Market pull
-University/industry liason
+University/industry liaison
 Simultaneous coupling
 Interactive
 9 characteristics of growth innovation
-Growth orientatiuon
+Growth orientation
 Vigilance
 Commitment to technology
 Acceptance of risks
@@ -26,6 +27,7 @@ Adaptability
 Diverse range of skills
 Issues of successful innovation
 Managing uncertainty
+Means and ends
 Uncertainty map (4 quadrants)
 Exploratory research
 Development engineering
@@ -41,3 +43,231 @@ Gatekeeper
 Product champion
 Project leader
 Sponsor
+Virtuos circle
+Product life cycle
+6 stages of product life cycle
+BCG matrix
+Problem children
+Stars
+Dogs
+Cash cows
+Business strategy
+Large vs small company business strategy levels
+Corporate level business strategy
+Business level business strategy
+Corporate strategy
+Mission statement
+Vision statement
+Business unit strategy
+Strategic analysis planning
+Rational approach
+Flexible approach
+Creative approach
+Behavioural approach
+Incremental approach
+No strategy approach
+PESTEL analysis factors
+PESTEL analysis
+PESTEL - political
+PESTEL - economic
+PESTEL - social
+PESTEL - technological
+PESTEL - environmental
+PESTEL - legal
+SWOT analysis
+Porter's 5-force model
+No vertical integration
+Forwards integration
+Full vertical integration
+New product development
+NPD strategies
+On-going corp strategy
+On-going market planning
+On-going tech management
+Oppurtunity analysis
+NPD planning inputs
+Ansoff growth matrix
+Market penetration strategy
+Market development strategy
+Product development strategy
+Diversification strategy
+Growth matrix and risk
+Product failure
+Reasons for product failure
+Avoiding failure
+5 characteristics of successful prod dev
+Product quality
+Product cost
+Development time
+Development cost
+Development capability
+Key departements in prod dev
+Marketing
+Design (R&D)
+Manufacturing
+Core project team
+Extended project team
+Prod dev process
+Phase 0: Planning
+Phase 1: Concept Development
+Phase 2: System-level design
+Phase 3: Detail design
+Phase 4: Testing and refinement
+Phase 5: Production ramp-up
+Prod dev process and decisions
+Types of product development projects
+New product platforms
+Derivatives of existing product platforms
+Incremental improvements to existing products
+Fundamentally new products
+5-step product planning process
+Project perspectives
+Competitive strategies
+Market segmentation
+Technology tragectories
+Product platforms
+New market-tech oppurtunity evaluation criteria
+Screening matrix
+Resource allocation
+Project timing
+Aggregate planning
+Types of resources
+Capacity utilisation ratio
+Project timing factors
+Time-to-market (project timing)
+Technology readiness (project timing)
+Market readiness (project timing)
+Competition (project timing)
+Flexible product development
+Product plan
+7 concept development activities
+Identifying customer needs (5-step process)
+Establishing target specifications (4-step process)
+Generate product concepts
+Select product concepts
+Test product concepts
+5-stage screening/evaluation process
+Initial screen
+Customer screen
+Technical screen
+Final screen
+Business analysis
+Key evaluation criteria
+Set final specifications
+Plan downstream development
+Contract book
+Economic analysis
+Benchmarking
+Modelling (prototype)
+Needs
+Wants
+Demands
+Product
+Service
+Market
+3-levels of product differentiation
+Market research
+Test marketing
+Ignoring marketing research
+Discontinious tech
+Discontinious product
+Product architecture
+Functional product elements
+Physical product elements
+Chunk
+Modular architecture
+Integral architecture
+Types of modular architecture
+Slot modular
+Bus modular
+Sectional modular
+Implications of product architecture
+Product change
+Product variety
+Component standardisation
+Product performance
+Manufacturability
+Product architecture management
+Establishing architecture (4-step method)
+Schematic
+Factors of clustering
+Geometric layout
+Fundamental interaction
+Incidental interaction
+Control documentation
+Departmental responsibilities of detail design
+Design for X
+Design for Manufacturing
+Manufacturability design issues
+Manufacturing cost
+Economically successful design
+DFM 7-step process
+Design for Assembly
+Prototype
+Phases of prototyping
+Alpha mode
+Beta mode
+Pre-production mode
+Departmental responbilities of test and refine
+Uses of prototypes
+Types of prototypes
+Low-fi prototype
+Hi-fi prototype
+Prototype compromises
+Comprehensive prototypes
+Focussed prototypes
+Prototype dimensions
+Using comprehensive prototypes
+Departmental responsibilites of prod ramp-up
+R&D
+Factors that affect changing nature of R&D
+R&D operational activities
+Basic research - R&D
+Applied research - R&D
+Development - R&D
+Technical service - R&D
+Factors around R&D planning
+Environmental forecast - R&D
+Technological cost effectiveness - R&D
+Risk - R&D
+Capability analysis - R&D
+Strategic role of R&D
+Technology portfolio
+Core technologies
+Complementary technologies
+Peripheral technologies
+Emerging technologies
+Technology leverage (growth)
+Technology leverage (maintenance)
+Evaluating R&D projects
+Intellectual property
+Patents
+Trademarks
+Design (IP)
+Copyright
+IP protection (IPR)
+Intellectual capital
+Types of IP
+Patent costs
+Patent agents
+Patent requirements
+Patent harmonisation
+Issues with patents
+Patent application contents
+6-step patent preperation process
+Types of patents
+Regular patents
+Provisional patents
+Patent description
+Way to pursue patent application
+Principles of trademarks
+3 categories of copyright
+Entrepreneurship oppurtunities
+Screening tech oppurtunitiy
+Innovation myths
+Translation of sci-eng to entrep
+The new economy
+The commercialisation process
+Business concept
+Features vs benefits
+Feasibility analysis components
